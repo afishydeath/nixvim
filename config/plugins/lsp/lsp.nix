@@ -14,6 +14,9 @@
       enable = true;
       inlayHints = true;
       servers = {
+        glsl_analyzer = {
+          enable = true;
+        };
         html = {
           enable = true;
         };
